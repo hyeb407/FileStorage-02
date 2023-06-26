@@ -1,1 +1,15 @@
-
+{
+    "firstname": "海蒂",
+    "gender":false,
+    "height": 163,
+    "email": "hyeb407@gmail.com",
+    "city": {
+        "通訊地址":"台北",
+        "戶籍地址":"台北"
+    },
+    "phone":{
+        "市話":"02-----",
+        "手機":"0953-888888"
+    },
+    "desserts": ["cake","mochi","pudding"]
+}
